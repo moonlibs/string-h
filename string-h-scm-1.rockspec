@@ -2,7 +2,7 @@ package = 'string-h'
 version = 'scm-1'
 
 source  = {
-    url    = 'git://github.com/moonlibs/string-h.git';
+    url    = 'git+https://github.com/moonlibs/string-h.git';
     branch = 'master';
 }
 
